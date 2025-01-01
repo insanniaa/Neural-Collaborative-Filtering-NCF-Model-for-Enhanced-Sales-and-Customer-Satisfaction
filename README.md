@@ -4,7 +4,7 @@ The proposed recommendation system leverages the power of Neural Collaborative F
 
 ---
 
-## Data Attributes:
+## Data Attributes
 
 ### **orders_df**
 - **order_id**: Unique identifier for each order placed on the e-commerce platform.
